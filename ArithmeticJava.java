@@ -4,7 +4,7 @@ import java.util.*;
 
 public class ArithmeticJava {
 	
-  
+    //Calculators  
    public static void main(String[] args) {
 	   Scanner scan = new Scanner(System.in);
 	   
